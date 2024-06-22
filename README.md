@@ -19,6 +19,9 @@
   </p>
 </p>
 
+## Discontinued
+This project is discontinued.
+
 ## Preview
 
 |                          Chat                           |                          Drawer                           |
